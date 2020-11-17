@@ -16,7 +16,7 @@ The installation instructions: https://github.com/se20z09/units_converter_extens
 
 Many participants were impressed with the Smart Units tool. They found it easy to install and found it fast and convenient to complete conversions. Besides the smart unit tool people used websites, primarily google.com and unitconverter.net to complete the conversions. People also used the built in calculator apps on their Mac and PC’s. The extension was discovered to have some issues especially around different spelling of units. If a unit was spelled or abbreviated differently than the Smart unit tool recognized it would fail to perform a calculation. The tool also got confused in a simmilar mannor with the unit "pounds" where it would think this was a currency insted of a weight. Testers also denoted the issue with the lack of ability to copy and paste from the extension. After performing a conversion testers would often forget the value and have to reconvert or enter an incorrect conversion.
 
-![Time taken to Complete Conversion Test By Method](https://github.com/mrpudlo/units_converter_extension/blob/master/table.PNG =100x20)
+![Time taken to Complete Conversion Test By Method](https://github.com/mrpudlo/units_converter_extension/blob/master/table.PNG)
 
 **Analysis**
 
@@ -24,7 +24,7 @@ While accuracy was not a primary focus of this test it was considered to ensure 
 
 Using the Smart Units extension the mean time to complete the test was 265.3s with a standard deviation of 119.6s. The median time was 227.5s. Without the Smart Units extension the mean time was 339.1s with a standard deviation of 148.4s. The median without Smart Units was 308s. 
 
-![alt text](https://github.com/mrpudlo/units_converter_extension/blob/master/analysis/comparision.png)
+![alt text](https://github.com/mrpudlo/units_converter_extension/blob/master/analysis/comparision.png  =100x20)
 
 These numbers were skewed by a few outlier cases. The first outlier was participant a574012  who could not figure out how to get the smart unit extension to work properly. This severely impacted the time it took the participant to complete the test. The subject figured out how to use the extension shortly into the test and after that performed comparable to other subjects. Due to their technological blunder this data point is an outlier and was discarded from further evaluation. Other participants issued their right to refuse and did not wish to complete the manual conversions resulting in them submitting their test early or refusing to take the manual conversion test all together. Participants who did not complete the test or did not take it did not have their data factored into comparative metrics. 
 
