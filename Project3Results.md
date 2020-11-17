@@ -19,12 +19,10 @@ Many participants were impressed with the Smart Units tool. They found it easy t
 
 
 Time taken to Complete Conversion Test By Method
-Token
-Smart Units Time (S)
-Non Smart Units Time (S)
-a856375
-227
-557
+Token | Smart Units Time (S) |Non Smart Units Time (S)
+------------------------------------------------------
+a856375 | 227 | 557
+------------------------------------------------------
 a183245
 273
 491
