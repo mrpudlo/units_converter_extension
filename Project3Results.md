@@ -32,6 +32,9 @@ With the data adjusted for outliers the new overview of data statistics is as fo
 
 Performing a Paired Confidence interval T test produces a P value of 0.908% and a non paired confidence interval T test results in a P value of 1.105%.
 
+The individual participant times are plotted below.
+<img src="https://github.com/mrpudlo/units_converter_extension/blob/master/analysis/image.png" alt="drawing" width="800"/>
+
 **Conclusion**
 
 The null hypothesis is assumed to be that the choice of unit converter does not affect the mean time to complete the conversion test. For the paired test, a P value of  0.908% and for the non paired a P value of 1.105% suggested that to a 95% confidence interval the null hypothesis is disproved. This shows a statistically significant difference in the amount of time saved by using the smart units tool. The lower P value on the paired test shows how this difference is especially screen when comparing individual subjects. All but one subject who completed both tests saw an improvement in time using the smart units extension. The one participant who did not see an improvement uniquely struggled with the tool and later found the tool helpful and efficient. Both the median and mean statistics reflect this reduction in time. On average individual participants saw a 166.6s reduction in time to convert 23 varying unit conversions.
